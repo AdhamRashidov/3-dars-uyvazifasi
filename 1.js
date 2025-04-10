@@ -155,3 +155,5 @@ let son_1 = prompt("Birinchi sonni kiriting");
 let son_2 = prompt("Ikkiinchi sonni kiriting");
 let son_3 = prompt("Uchinchi sonni kiriting");
 alert(`Eng katta son: ${Math.max(son_1,son_2,son_3)}`);
+
+//clone qilindi
